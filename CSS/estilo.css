@@ -136,20 +136,18 @@ aside p{
     float: right;
     position: absolute;
     bottom: 100;
-    right: 0;
+    right: 11%;
     background-color: rgb(74, 76, 77);
     color: rgb(33, 170, 74);
     border-top: solid 3px rgb(33, 170, 74);
     border-left: solid 3px rgb(33, 170, 74);
     border-right: solid 3px rgb(33, 170, 74);
     padding-top: 10px;
-    padding-left: 900px;
+    padding-left: 950px;
     padding-right: 10px;
     padding-bottom: 5px;
     border-radius: 3pt;
     font-size: 15px;
-    margin-left: 200px;
-    margin-right: 200px;
 }
 
 .data{
