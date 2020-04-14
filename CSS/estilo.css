@@ -1,0 +1,144 @@
+body{
+    font-family: Arial, Helvetica, sans-serif;
+    margin-top: 0px;
+    margin: auto;
+    background-color: rgb(236, 235, 235);
+}
+
+header{
+    background-color: rgb(74, 76, 77);
+    padding-right: 100px;
+    padding-top: 10px;
+    padding-bottom: 15px;
+    margin-bottom: 60px;
+    border-left: solid 3px rgb(33, 170, 74);
+    border-right: solid 3px rgb(33, 170, 74);
+    margin-left: 200px;
+    margin-right: 200px;
+    margin-bottom: 0px;
+}
+
+li{
+    color: rgb(39, 203, 88);
+    display:inline;
+    padding-left: 80px;
+    padding-right: 50px;
+}
+
+#home{
+    border-right: solid 3px rgb(33, 170, 74);
+    border-left: solid 3px rgb(33, 170, 74);
+}
+
+#noticias{
+    border-right: solid 3px rgb(33, 170, 74);
+}
+
+#inspiracao{
+    border-right: solid 3px rgb(33, 170, 74);
+}
+
+#fale{
+    border-right: solid 3px rgb(33, 170, 74);
+}
+
+#menu{
+    background-color: rgb(74, 76, 77);
+    text-align: center;
+    padding-bottom: 20px;
+    border-top: solid 3px rgb(33, 170, 74);
+    border-bottom: solid 3px rgb(33, 170, 74);
+    border-right: solid 3px rgb(33, 170, 74);
+    border-left: solid 3px rgb(33, 170, 74);
+    border-bottom-left-radius: 3pt;
+    border-bottom-right-radius: 3pt;
+    margin: auto;
+    margin-left: 200px;
+    margin-right: 200px;
+    margin-bottom: 100px;
+}
+
+main{
+    margin-left: 480px;
+    margin-right: 480px;
+    margin-bottom: 75px;
+    margin-top: 0px;
+    padding-right: 100px;
+    padding-left: 100px;
+    padding-bottom: 25px;
+    text-align: justify;
+    background-color: white;
+    border-radius: 5pt;
+}
+
+.manchete{
+    padding-top: 50px;
+    font-family: "Times New Roman", "Baskerville";
+    font-size: 20px;
+    margin-bottom: 50px;
+}
+
+h1{
+    font-size: 50px;
+    margin: auto;
+    margin-left: 400px;
+    margin-right: 400px;
+    margin-bottom: 60px;
+    text-align: center;
+    color: rgb(33, 170, 74);
+}
+
+a{
+    color: inherit;
+}
+
+.brtt img{
+    border: solid 3px rgb(33, 170, 74);
+    border-radius: 3pt;
+    width: 450px;
+    float: right;
+}
+
+aside p{
+    text-align: center;
+    margin-bottom: 50px;
+    font-size: 12px;  
+}
+
+.artigo{
+    font-size: 20px;
+    margin-bottom: 25px;
+}
+
+.tabela{
+    text-align: center;
+    margin-bottom: 25px;
+}
+
+#tabela{
+    width: 800px;
+    margin-left: 400px;
+    margin-bottom: 100px;
+    border: solid 3px rgb(33, 170, 74);
+    border-radius: 3pt;
+}
+
+.rodape{
+    float: right;
+    position: absolute;
+    bottom: 100;
+    right: 0;
+    background-color: rgb(74, 76, 77);
+    color: rgb(33, 170, 74);
+    border-top: solid 3px rgb(33, 170, 74);
+    border-left: solid 3px rgb(33, 170, 74);
+    border-right: solid 3px rgb(33, 170, 74);
+    padding-top: 10px;
+    padding-left: 900px;
+    padding-right: 10px;
+    padding-bottom: 5px;
+    border-radius: 3pt;
+    font-size: 15px;
+    margin-left: 200px;
+    margin-right: 200px;
+}
