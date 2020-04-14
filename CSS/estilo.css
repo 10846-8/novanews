@@ -66,24 +66,29 @@ main{
     padding-right: 100px;
     padding-left: 100px;
     padding-bottom: 25px;
+    padding-top: 50px;
     text-align: justify;
     background-color: white;
     border-radius: 5pt;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    line-height: 27px;
+
 }
 
-.manchete{
-    padding-top: 50px;
-    font-family: "Times New Roman", "Baskerville";
+.chamada{
     font-size: 20px;
-    margin-bottom: 50px;
+    margin-bottom: 70px;
+    text-align: center;
+    margin-left: 440px;
+    margin-right: 440px;
 }
 
 h1{
     font-size: 50px;
     margin: auto;
-    margin-left: 400px;
-    margin-right: 400px;
-    margin-bottom: 60px;
+    margin-left: 380px;
+    margin-right: 380px;
+    margin-bottom: 5px;
     text-align: center;
     color: rgb(33, 170, 74);
 }
@@ -95,19 +100,22 @@ a{
 .brtt img{
     border: solid 3px rgb(33, 170, 74);
     border-radius: 3pt;
-    width: 450px;
-    float: right;
+    width: 800px;
+    position: relative;
+    left: 25%;
 }
 
 aside p{
     text-align: center;
-    margin-bottom: 50px;
+    margin-bottom: 80px;
     font-size: 12px;  
 }
 
 .artigo{
     font-size: 20px;
     margin-bottom: 25px;
+    clear: both;
+    margin-bottom: 30px;
 }
 
 .tabela{
@@ -117,10 +125,11 @@ aside p{
 
 #tabela{
     width: 800px;
-    margin-left: 400px;
     margin-bottom: 100px;
     border: solid 3px rgb(33, 170, 74);
     border-radius: 3pt;
+    position: relative;
+    left: 25%;
 }
 
 .rodape{
@@ -141,4 +150,18 @@ aside p{
     font-size: 15px;
     margin-left: 200px;
     margin-right: 200px;
+}
+
+.data{
+    text-align: center;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    margin-bottom: 60px;
+}
+
+strong{
+    font-weight: bold;
+}
+
+em{
+    font-style: italic;
 }
